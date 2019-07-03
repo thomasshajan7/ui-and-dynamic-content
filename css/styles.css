@@ -1,0 +1,60 @@
+
+body{
+    background-image: url("../image/back.jpg");
+    max-width: 45rem;
+    margin: 0 auto; 
+}
+
+.masthead,.shopping-cart {
+    text-align: center;
+}
+
+img{
+    width: 20%;
+    height: 20%;
+}
+
+h1,h6,ul {
+    font-family: 'arial';
+    font-size: 5em;
+    color:aquamarine;
+    text-align: center;
+}
+
+
+button{
+    font-family: 'arial';
+    height: 50px;
+    width: 100px;
+    font-size: 1.5em;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+h6,ul{
+ font-size: 2em;
+    list-style: none;
+}
+
+input {
+    width: 350px;
+    height: 30px;
+}
+
+#add{
+    width: 180px;
+    height: 40px;
+}
+
+.fab {
+    font-size: 3em;
+    padding: 20px;
+    color:darkgoldenrod;
+}
+
+footer {
+    padding: 20px;
+    size: 2em;
+    text-align: center;
+}
+
